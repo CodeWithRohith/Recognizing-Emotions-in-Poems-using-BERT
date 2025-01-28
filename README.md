@@ -1,5 +1,10 @@
 # Recognizing Emotions in Poems using BERT
 
+## Live Demo  
+Run the project directly in Google Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/197I8ut041obXMl5r3UUKK9EmqI69mW2D?usp=sharing)
+
+
 ## Overview
 Poetry is often rich in figurative language, metaphors, and abstract ideas, making emotion detection a challenging task. This project addresses this complexity by leveraging **BERT** (Bidirectional Encoder Representations from Transformers) to classify emotions in **450 complex poems**, including Shakespeare-level works, into seven categories:
 - **Anger**
