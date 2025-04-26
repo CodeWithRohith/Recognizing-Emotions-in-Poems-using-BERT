@@ -71,7 +71,21 @@ Steps to clean and standardize the text:
 ---
 
 ## Project Structure
-Recognizing-Emotions-in-Poems-using-BERT/ │ ├── data/ # Dataset files (e.g., Kaggle Poem Dataset) ├── notebooks/ # Jupyter notebooks for data exploration and modeling ├── src/ # Scripts for preprocessing, training, and evaluation ├── models/ # Saved BERT model checkpoints ├── requirements.txt # Python dependencies ├── README.md # Project documentation (this file) └── LICENSE # License file (e.g., MIT License)
+Recognizing-Emotions-in-Poems-using-BERT/ │ 
+
+├── data/ # Dataset files (e.g., Kaggle Poem Dataset) 
+
+├── notebooks/ # Jupyter notebooks for data exploration and modeling 
+
+├── src/ # Scripts for preprocessing, training, and evaluation 
+
+├── models/ # Saved BERT model checkpoints 
+
+├── requirements.txt # Python dependencies 
+
+├── README.md # Project documentation (this file) 
+
+└── LICENSE # License file (e.g., MIT License)
 
 
 ---
